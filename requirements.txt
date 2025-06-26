@@ -3,3 +3,4 @@ pandas
 langchain
 langchain-experimental
 ollama
+tabulate
